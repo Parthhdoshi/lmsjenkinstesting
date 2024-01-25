@@ -1,0 +1,17 @@
+.main{
+    text-decoration: none;
+}
+
+.wdt{
+    width : 700px;
+    height:35px;
+    border-radius: 40px;
+}
+
+.bdr{
+    border: 1px solid black;
+}
+
+.container.loaded{
+    background: black;
+}
